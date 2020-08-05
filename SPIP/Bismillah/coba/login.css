@@ -1,0 +1,70 @@
+body{
+	background : #F2F2F2;
+}
+
+h1{
+	font-family : Century Gothic;
+	font-size : 400%;
+	color : #A9F5A9;
+	padding : 30px;
+}
+
+#menulogin{
+	float : left;
+	width : 100%;
+	background : transparent;
+	border-bottom : 6px solid #CEF6E3;
+	overflow : hidden;
+	position : relative;
+}
+
+#menulogin ul{
+	clear : left;
+	float : left;
+	list-style : none;
+	margin : 0;
+	padding : 0;
+	position : relative;
+	left : 50%;
+	text-align : center;
+}
+
+#menulogin ul li{
+	display : block;
+	float : left;
+	list-style : none;
+	margin : 0;
+	padding : 0;
+	position : relative;
+	right : 50%;
+}
+
+#menulogin ul li a{
+	display : block;
+	margin : 0 0 0 1px;
+	padding : 5px 269px;
+	background : #FFE5B4;
+	color : #810541;
+	font-family : Century Gothic;
+	text-decoration : none;
+	line-height : 1cm;
+}
+
+#menulogin ul li a:hover{
+	background : #E799A3;
+	color : #fff;
+}
+
+#menulogin ul li a.active, #menulogin ul li a.active:hover{
+	color : #fff;
+	background : #E799A3;
+	font-weight : bold;
+}
+
+#login p input{
+	width : 350px;
+	height : 27px;
+	margin-left : 150px;
+	margin-top : 0px;
+}
+	
