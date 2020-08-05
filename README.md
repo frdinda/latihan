@@ -1,2 +1,2 @@
 # latihan
-isi-nya latihan-latihan saya
+isi-nya latihan-latihan
