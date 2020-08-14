@@ -1,0 +1,16 @@
+.container.login{
+    margin-top : 12vh;
+}
+
+.container.login .row.judul{
+    margin-bottom: 8vh;
+}
+
+.container.register{
+    margin-top : 12vh;
+}
+
+.container.register .row.judul{
+    margin-bottom: 3vh;
+}
+
