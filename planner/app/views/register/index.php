@@ -1,4 +1,4 @@
-<div class="container register">
+<div class="container-fluid register">
     <div class="row justify-content-center judul">
         <h1>Sign Up</h1>
     </div>
